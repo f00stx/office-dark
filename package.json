@@ -2,9 +2,18 @@
     "name": "office-dark",
     "displayName": "Office Dark",
     "description": "I wanted a dark theme that isn't practically unusuable under office lighting conditions. Et voila.",
-    "version": "0.0.1",
+    "publisher": "f00stx",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.54.0"
+    },
+    "author": {
+        "name": "Richard Walker",
+        "email": "richard@redsyntax.com"
+    },
+    "repository": {
+        "url": "https://github.com/f00stx/office-dark",
+        "type": "git"
     },
     "categories": [
         "Themes"
